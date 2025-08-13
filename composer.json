@@ -2,7 +2,7 @@
     "name": "kodffe/koodilight",
     "description": "Compiled version of DataCamp Light packaged for Drupal integration",
     "type": "drupal-library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "extra": {
         "installer-name": "koodilight"
